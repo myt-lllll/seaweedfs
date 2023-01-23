@@ -68,7 +68,7 @@ require (
 	github.com/klauspost/reedsolomon v1.9.16
 	github.com/kurin/blazer v0.5.3
 	github.com/lib/pq v1.10.6
-	github.com/linxGnu/grocksdb v1.7.2
+	github.com/linxGnu/grocksdb v1.7.14
 	github.com/magiconair/properties v1.8.6 // indirect
 	github.com/mailru/easyjson v0.7.7 // indirect
 	github.com/mattn/go-ieproxy v0.0.3 // indirect
@@ -98,7 +98,7 @@ require (
 	github.com/spf13/jwalterweatherman v1.1.0 // indirect
 	github.com/spf13/viper v1.12.0
 	github.com/streadway/amqp v1.0.0
-	github.com/stretchr/testify v1.7.2
+	github.com/stretchr/testify v1.8.1
 	github.com/stvp/tempredis v0.0.0-20181119212430-b82af8480203
 	github.com/syndtr/goleveldb v1.0.1-0.20190318030020-c3a204f8e965
 	github.com/tidwall/gjson v1.14.1
